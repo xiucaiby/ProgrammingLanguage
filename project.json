@@ -1,0 +1,7 @@
+{
+    "name": "Nanib编程语言",
+    "kind": 1,
+    "type": "Java控制台工程",
+    "typeId": "std.java.console",
+    "package": "com.nanib.language"
+}
